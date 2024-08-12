@@ -1,0 +1,26 @@
+{
+  "name": "chrly",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veRtiz18/chrly"
+  },
+  "keywords": [],
+  "author": "Carlos Ricardo Vertiz",
+  "license": "MIT",
+  "bugs": {},
+  "homepage": "https://github.com/veRtiz18/chrly/blob/main/README.md",
+  "bin": {
+    "chrly": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "-": "^0.0.1",
+    "g": "^2.0.1"
+  }
+}
